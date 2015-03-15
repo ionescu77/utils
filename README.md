@@ -5,4 +5,4 @@ Different Code Snippets for Developpment
 > a CSS template for overriding the BoostrapCSS, just replace the refferences to the background images (gif, jpg, png)
 > original thread [here](http://www.webdesignerforum.co.uk/topic/71672-bootstrap-responsive-image-full-page-background-image/)
 
-PS I am not sure how to get rid of the licensing option :-p
+20150315 Added an initial .vimrc file
